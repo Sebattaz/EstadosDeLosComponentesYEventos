@@ -1,0 +1,18 @@
+.Registro{
+    width: 400px;
+    height: 500px;
+    border-radius: 50px;
+    background-color: beige;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    
+    
+}
+.socialBTN{
+    display: flex;
+    justify-content: space-around;
+    height: 50px;
+    width: auto;
+
+}
